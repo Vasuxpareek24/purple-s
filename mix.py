@@ -85,7 +85,7 @@ BACKUP = "https://t.me/NomorGo"
 DEVELOPER_ID = "@NOMORXBOT"
 CODE_GROUP = "https://t.me/+aXIW_HL5DCdhNzhl"
 
-REQUIRED_CHANNELS = []
+REQUIRED_CHANNELS = ["@NomorGo","@NomorGoNums","@nomornumber"]
 
 # ---------------- DATA STORAGE ----------------
 data = {}
