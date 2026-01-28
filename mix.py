@@ -83,9 +83,9 @@ AUTO_DELETE_MINUTES = 0
 CHANNEL_LINK = "https://t.me/NomorGo"
 BACKUP = "https://t.me/NomorGo"
 DEVELOPER_ID = "@NOMORXBOT"
-CODE_GROUP = "https://t.me/+aXIW_HL5DCdhNzhl"
+CODE_GROUP = "https://t.me/+45lBy8gOQ8ljN2E1"
 
-REQUIRED_CHANNELS = ["@NomorGo","@NomorGoNums","@nomornumber"]
+REQUIRED_CHANNELS = ["@NomorGo","@nomornumber"]
 
 # ---------------- DATA STORAGE ----------------
 data = {}
