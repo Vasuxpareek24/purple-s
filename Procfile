@@ -1,1 +1,1 @@
-web: python purple.py
+web: python mix.py
