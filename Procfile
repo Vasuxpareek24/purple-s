@@ -1,1 +1,1 @@
-web: python mix.py
+web: python zone.py
