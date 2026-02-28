@@ -19,7 +19,7 @@ from urllib.parse import urlencode
 
 # ==================== CONFIG ====================
 BOT_TOKEN  = os.getenv("BOT_TOKEN")
-ADMIN_ID = 8195360535
+ADMIN_ID = 6102951142
 API_TOKEN  = os.getenv("API_TOKEN")
 
 bot = telebot.TeleBot(BOT_TOKEN, parse_mode="HTML")
