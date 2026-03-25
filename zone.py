@@ -153,7 +153,7 @@ last_change_time   = {}
 active_users       = set()
 past_otp_cooldown  = {}
 flag_overrides     = {}
-REQUIRED_CHANNELS = ["@NomorGo","@NomorGoNums","@sunilhubbackup"]
+REQUIRED_CHANNELS = ["@NomorGo","@nomorgoextra","@sunilhubbackup"]
 
 SERVICE_CODES = {
     "whatsapp": "WA", "telegram": "TG", "instagram": "IG", "facebook": "FB",
